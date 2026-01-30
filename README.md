@@ -1,3 +1,3 @@
 # 3DGlobalFormer
 
-As shown in .Zip
+The code is avalibale in the Zip
